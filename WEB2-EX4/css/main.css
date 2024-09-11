@@ -116,3 +116,8 @@ main > section {
 .hero {
     background: thistle;
 }
+
+/* ----- LEXI SECTION ----- */
+.lexi {
+    background-color: rgb(185, 19, 74); 
+}
