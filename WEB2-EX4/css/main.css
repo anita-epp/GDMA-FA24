@@ -116,3 +116,9 @@ main > section {
 .hero {
     background: thistle;
 }
+
+/*------Genesis Section ------*/
+
+.genesis {
+    background: rgb(255, 172, 186);
+}
