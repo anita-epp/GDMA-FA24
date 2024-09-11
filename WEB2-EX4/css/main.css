@@ -117,8 +117,12 @@ main > section {
     background: thistle;
 }
 
-
 /* ----- JOLIE SECTION ----- */
 .jolie {
     background-color: rgb(127, 212, 255);
+}
+
+/* ----- ANITA SECTION ----- */
+.anita {
+    background-color: rgb(124, 7, 186);
 }
