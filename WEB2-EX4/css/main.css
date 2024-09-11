@@ -116,3 +116,9 @@ main > section {
 .hero {
     background: thistle;
 }
+
+
+/* ----- JOLIE SECTION ----- */
+.jolie {
+    background-color: rgb(127, 212, 255);
+}
