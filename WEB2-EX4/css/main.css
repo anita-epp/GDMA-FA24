@@ -107,6 +107,8 @@ footer.site-footer {}
 /*--------------------------------------------------------------
     8.0 - Sections
 -------------------------------------------------------------- */
+
+
 /* ----- MAIN ----- */
 main > section {
     padding: 100px 2rem;
@@ -115,4 +117,10 @@ main > section {
 /* ----- HERO ----- */
 .hero {
     background: thistle;
+}
+
+/* ----------- Angel Section------------ */
+
+.angel {
+    background-color: blue;
 }
