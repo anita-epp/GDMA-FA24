@@ -116,3 +116,8 @@ main > section {
 .hero {
     background: thistle;
 }
+
+/* ----- STORY ----- */
+.story {
+    background-color: rgb(238, 160, 199);
+}
