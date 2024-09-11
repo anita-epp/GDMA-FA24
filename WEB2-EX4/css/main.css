@@ -112,7 +112,13 @@ main > section {
     padding: 100px 2rem;
 }
 
+
 /* ----- HERO ----- */
 .hero {
     background: thistle;
+}
+
+/* -----EDGAR SECTION----- */
+.edgar {
+    background-color: mediumaquamarine;
 }
