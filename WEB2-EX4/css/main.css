@@ -116,3 +116,9 @@ main > section {
 .hero {
     background: thistle;
 }
+
+/* ---- Mila Section ---- */
+
+.mila {
+    background: rgb(241, 218, 255);
+}

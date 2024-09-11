@@ -22,3 +22,4 @@ Exercise 4: GitHub Practice
 
 ## Class List
 - Instructor: Anita Epp
+- Student: `Mila Thongdy`
