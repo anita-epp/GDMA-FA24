@@ -116,3 +116,8 @@ main > section {
 .hero {
     background: thistle;
 }
+
+/* ----- ANITA SECTION ----- */
+.anita {
+    background-color: rgb(124, 7, 186);
+}
