@@ -114,10 +114,10 @@ main > section {
 
 /* ----- HERO ----- */
 .hero {
-    background: thistle;
+    background: paleturquoise;
 }
 
-/* ----- ANITA SECTION ----- */
-.anita {
-    background-color: rgb(124, 7, 186);
+/* ----- Abriel SECTION ----- */
+.abriel {
+    background: palevioletred;
 }
