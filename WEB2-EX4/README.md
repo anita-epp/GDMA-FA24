@@ -10,7 +10,7 @@ Exercise 4: GitHub Practice
 6. Open a pull request (PR), add anita-epp as a reviewer
 
 ## Requested Changes
-- [ ] Add your name to the [class list](#class-list)class list in this README file.
+- [ ] Add your name to the [class list](#class-list) in this README file.
 - [ ] Highlight your name using backticks "`".
 - [ ] In `index.html`, add a section after `section.hero`:
    - Give it a class with your first name
