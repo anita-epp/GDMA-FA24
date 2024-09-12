@@ -21,6 +21,8 @@ Exercise 4: GitHub Practice
    - Give your section a background color
 
 ## Class List
+- Instructor: `Anita Epp`
+- Student: `Genesis Romero Adame`
 - Instructor: Anita Epp
 - Student: `Lexi Winkle`
 - Student: `Landon Bowen`
