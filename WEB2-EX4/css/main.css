@@ -116,7 +116,12 @@ main > section {
 
 /* ----- HERO ----- */
 .hero {
-    background: thistle;
+    background: paleturquoise;
+}
+
+/* ----- Abriel SECTION ----- */
+.abriel {
+    background: palevioletred;
 }
 
 /* ----- STORY ----- */

@@ -22,9 +22,9 @@ Exercise 4: GitHub Practice
 
 ## Class List
 - Instructor: `Anita Epp`
+- Student: `Abriel`
 - Student: `Edgar Soto`
 - Student: `Genesis Romero Adame`
-- Instructor: Anita Epp
 - student: `story presnell`
 - Student: `Marina Bartula`
 - `Angel R`
