@@ -34,5 +34,6 @@ Exercise 4: GitHub Practice
 - Student: `Landon Bowen`
 - Student: `Zoe Morrill`
 - Student: `Viviana Velazquez`
-- Student: 'Emily Lambley'
-- Student: 'Jolie Musselman'
+- Student: `Emily Lambley`
+- Student: `Jolie Musselman`
+- Student: `Maggie Odvody`
