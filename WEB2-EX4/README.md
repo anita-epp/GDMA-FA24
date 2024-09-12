@@ -22,6 +22,7 @@ Exercise 4: GitHub Practice
 
 ## Class List
 - Instructor: `Anita Epp`
+- Student: `Edgar Soto`
 - Student: `Genesis Romero Adame`
 - Instructor: Anita Epp
 - `Angel R`
