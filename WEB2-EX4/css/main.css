@@ -119,6 +119,11 @@ main > section {
     background: thistle;
 }
 
+/* ----- STORY ----- */
+.story {
+    background-color: rgb(238, 160, 199);
+}
+
 /* ----- Marina Section ----- */
 .marina {
     background-color: burlywood;

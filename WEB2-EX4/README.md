@@ -25,6 +25,7 @@ Exercise 4: GitHub Practice
 - Student: `Edgar Soto`
 - Student: `Genesis Romero Adame`
 - Instructor: Anita Epp
+- student: `story presnell`
 - Student: `Marina Bartula`
 - `Angel R`
 - Student: `Mila Thongdy`
