@@ -23,3 +23,16 @@ Exercise 4: GitHub Practice
 ## Class List
 - Instructor: `Anita Epp`
 - Student: `Abriel`
+- Student: `Edgar Soto`
+- Student: `Genesis Romero Adame`
+- student: `story presnell`
+- Student: `Marina Bartula`
+- `Angel R`
+- Student: `Mila Thongdy`
+- Student: `Emma Vega Gutierrez`
+- Student: `Lexi Winkle`
+- Student: `Landon Bowen`
+- Student: `Zoe Morrill`
+- Student: `Viviana Velazquez`
+- Student: 'Emily Lambley'
+- Student: 'Jolie Musselman'
