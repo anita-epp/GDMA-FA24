@@ -118,7 +118,42 @@ main > section {
 }
 
 /*------Genesis Section ------*/
-
 .genesis {
     background: rgb(255, 172, 186);
+}
+
+/* ----- LEXI SECTION ----- */
+.lexi {
+  background-color: rgb(185, 19, 74);
+}
+
+/* ----- LANDON ----- */
+.landon {
+  background-color: rgb(6, 217, 122);
+}
+
+/*-- Zoe Section --*/
+.zoe{
+    background-color: peachpuff;
+}
+
+/* ----- VI SECTION ----- */
+
+.vi {
+    background-color: #e8c6d7;
+}
+
+/* ----- ANITA SECTION ----- */
+.anita {
+    background-color: rgb(124, 7, 186);
+}
+
+/* ----- JOLIE SECTION ----- */
+.jolie {
+    background-color: rgb(127, 212, 255);
+}
+
+/*----- EMILY SECTION ----*/
+.emily {
+    background-color: #879eb2;
 }
