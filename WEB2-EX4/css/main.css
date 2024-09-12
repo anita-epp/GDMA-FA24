@@ -107,6 +107,8 @@ footer.site-footer {}
 /*--------------------------------------------------------------
     8.0 - Sections
 -------------------------------------------------------------- */
+
+
 /* ----- MAIN ----- */
 main > section {
     padding: 100px 2rem;
@@ -120,4 +122,71 @@ main > section {
 /* ----- STORY ----- */
 .story {
     background-color: rgb(238, 160, 199);
+}
+
+/* ----- Marina Section ----- */
+.marina {
+    background-color: burlywood;
+}
+
+/* -----EDGAR SECTION----- */
+.edgar {
+    background-color: mediumaquamarine;
+}
+
+/* ----------- Angel Section------------ */
+.angel {
+    background-color: blue;
+}
+
+/* ---- Mila Section ---- */
+.mila {
+    background: rgb(241, 218, 255);
+}
+
+/* ----- EMMA SECTION -----*/
+.emma {
+
+    background-color: rgb(184, 221, 188);
+}
+
+/*------Genesis Section ------*/
+.genesis {
+    background: rgb(255, 172, 186);
+}
+
+/* ----- LEXI SECTION ----- */
+.lexi {
+  background-color: rgb(185, 19, 74);
+}
+
+/* ----- LANDON ----- */
+.landon {
+  background-color: rgb(6, 217, 122);
+}
+
+/*-- Zoe Section --*/
+.zoe{
+    background-color: peachpuff;
+}
+
+/* ----- VI SECTION ----- */
+
+.vi {
+    background-color: #e8c6d7;
+}
+
+/* ----- ANITA SECTION ----- */
+.anita {
+    background-color: rgb(124, 7, 186);
+}
+
+/* ----- JOLIE SECTION ----- */
+.jolie {
+    background-color: rgb(127, 212, 255);
+}
+
+/*----- EMILY SECTION ----*/
+.emily {
+    background-color: #879eb2;
 }
