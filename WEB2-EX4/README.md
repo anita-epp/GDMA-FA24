@@ -23,3 +23,6 @@ Exercise 4: GitHub Practice
 ## Class List
 - Instructor: Anita Epp
 - Student: `Zoe Morrill`
+- Student: `Viviana Velazquez`
+- Student: 'Emily Lambley'
+- Student: 'Jolie Musselman'
