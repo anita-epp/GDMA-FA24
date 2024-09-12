@@ -117,6 +117,12 @@ main > section {
     background: thistle;
 }
 
+/* ----- VI SECTION ----- */
+
+.vi {
+    background-color: #e8c6d7;
+}
+
 /* ----- ANITA SECTION ----- */
 .anita {
     background-color: rgb(124, 7, 186);
