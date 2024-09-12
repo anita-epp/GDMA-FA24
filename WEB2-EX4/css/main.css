@@ -119,6 +119,11 @@ main > section {
     background: thistle;
 }
 
+/* ---- Mila Section ---- */
+.mila {
+    background: rgb(241, 218, 255);
+}
+
 /* ----- EMMA SECTION -----*/
 .emma {
 

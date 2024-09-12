@@ -24,6 +24,7 @@ Exercise 4: GitHub Practice
 - Instructor: `Anita Epp`
 - Student: `Genesis Romero Adame`
 - Instructor: Anita Epp
+- Student: `Mila Thongdy`
 - Student: `Emma Vega Gutierrez`
 - Student: `Lexi Winkle`
 - Student: `Landon Bowen`
