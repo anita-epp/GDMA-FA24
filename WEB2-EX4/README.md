@@ -37,3 +37,4 @@ Exercise 4: GitHub Practice
 - Student: `Emily Lambley`
 - Student: `Jolie Musselman`
 - Student: `Maggie Odvody`
+- Student: `Valeria Lopez`
